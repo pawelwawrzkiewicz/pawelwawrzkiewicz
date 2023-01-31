@@ -6,7 +6,7 @@ git branch -M main
 git remote add origin https://github.com/pawelwawrzkiewicz/pawelwawrzkiewicz.git
 git push -u origin main
 
-un
+notatki
 
   git config --global user.email "pawel_wawrzkiewicz@o2.pl"
   git config --global user.name "pawelwawrzkiewicz"
